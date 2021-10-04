@@ -17,7 +17,7 @@ namespace Entidades
         ///Constructor sin parametros. 
         /// Inicializa el atributo numero en cero.
         /// </summary>
-        public Operando() : this(0)
+        public Operando()
         {
         }
 
@@ -25,8 +25,9 @@ namespace Entidades
         /// Constructor con parametro.
         /// </summary>
         /// <param name="numero"></param> valor a cargar en el atributo numero.
-        public Operando(double numero) : this(numero.ToString())
+        public Operando(double numero)
         {
+            this.numero = 0;
         }
 
         /// <summary>
@@ -56,11 +57,8 @@ namespace Entidades
         /// <returns></returns>Retorna 0 si no se pudo convertir o sino el numero convertido.
         public double ValidarOperando(string  strNumero)
         {
-            if(double.TryParse(strNumero, out double retorno))
-            {
-                return retorno;
-            }
-            return 0;
+            double.TryParse(strNumero, out double retorno);
+            return numero;
         }
 
         /// <summary>

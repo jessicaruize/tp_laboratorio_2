@@ -20,3 +20,14 @@ C:\Users\jessi\Documents\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\T
 C:\Users\jessi\Documents\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
 C:\Users\jessi\Documents\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
 C:\Users\jessi\Documents\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP1\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb

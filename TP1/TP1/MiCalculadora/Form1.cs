@@ -272,6 +272,7 @@ namespace MiCalculadora
                     }
                     else
                     {
+                        e.Handled = true;
                         MessageBox.Show("No se puede ingresar mas de una coma.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
@@ -311,5 +312,6 @@ namespace MiCalculadora
         private void txtNumero1_KeyDown(object sender, KeyEventArgs e)
         {
         }
+
     }
 }
