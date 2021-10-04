@@ -22,6 +22,12 @@ namespace Entidades
         private EMarca marca;
         private string chasis;
         private ConsoleColor color;
+        /// <summary>
+        /// Constructor que permite cargar al objeto la marca, chasis y color.
+        /// </summary>
+        /// <param name="chasis"></param>chasis a cargar en el objeto.
+        /// <param name="marca"></param>marca a cargar en el objeto.
+        /// <param name="color"></param>color a cargar en el objeto.
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.marca = marca;
@@ -41,7 +47,10 @@ namespace Entidades
         {
             return (string)this;
         }
-
+        /// <summary>
+        /// casteo explicito de un vehìculo a string, el string tendra sus datos.
+        /// </summary>
+        /// <param name="p"></param>Vehiculo a pasar a string
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
@@ -49,6 +58,7 @@ namespace Entidades
             sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
             sb.AppendFormat("COLOR : {0}\r\n",p.color.ToString());
             sb.AppendLine("---------------------");
+            sb.AppendFormat("TAMAÑO : {0}", p.Tamanio);
             return sb.ToString();
         }
 

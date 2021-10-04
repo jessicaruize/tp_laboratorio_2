@@ -19,10 +19,17 @@ namespace Entidades
         }
 
         #region "Constructores"
+        /// <summary>
+        /// Constructor privado que va a instanciar la lista vehiculos.
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+        /// <summary>
+        /// Constructor que permite cargar el espacioDisponible e indirectamente instanciar la lista vehiculos.
+        /// </summary>
+        /// <param name="espacioDisponible"></param> Espacio que va a tener el Taller.
         public Taller(int espacioDisponible) : this()
         {
             this.espacioDisponible = espacioDisponible;
@@ -101,7 +108,9 @@ namespace Entidades
                 foreach (Vehiculo v in taller.vehiculos)
                 {
                     if (v == vehiculo)
+                    {
                         return taller;
+                    }
                 }
                 taller.vehiculos.Add(vehiculo);
             }
