@@ -1,0 +1,50 @@
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.exe
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.deps.json
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.runtimeconfig.json
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.dll
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\ref\Camara.dll
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.pdb
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormCamaraNacionalDeApelacionesDelTrabajo.resources
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormIniciarCausa.resources
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.GenerateResource.cache
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.AssemblyInfo.cs
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.dll
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\ref\Camara.dll
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.pdb
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.genruntimeconfig.cache
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormResultados.resources
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormVisualizarCausas.resources
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.CopyComplete
+C:\Users\jessi\source\repos\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.exe
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.deps.json
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.runtimeconfig.json
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.runtimeconfig.dev.json
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\ref\Camara.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Camara.pdb
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormCamaraNacionalDeApelacionesDelTrabajo.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormIniciarCausa.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormResultados.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.FormVisualizarCausas.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.Properties.Resources.resources
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.GenerateResource.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\ref\Camara.dll
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.pdb
+C:\Users\jessi\OneDrive\Documentos\Programacion II\tp_laboratorio_2\tp_laboratorio_2\TP3\Ruiz.Jessica.2C.TPFinal\Camara\obj\Debug\net5.0-windows\Camara.genruntimeconfig.cache

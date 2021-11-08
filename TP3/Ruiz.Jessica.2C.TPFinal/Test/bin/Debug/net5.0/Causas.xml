@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCausa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Causa>
+    <NumeroIdentificacion>1</NumeroIdentificacion>
+    <Demandado>
+      <Nombre>Fulanito Demandado</Nombre>
+      <Direccion>Calle falsa 123</Direccion>
+      <TipoIdentificacion>CUIT</TipoIdentificacion>
+      <NumeroIdentificacion>23456789431</NumeroIdentificacion>
+      <ActividadEmpresa>actividadEmpresarialPrueba</ActividadEmpresa>
+    </Demandado>
+    <AbogadoActor>
+      <Nombre>Juan pepe</Nombre>
+      <Direccion>Alvares 334</Direccion>
+      <TipoIdentificacion>CUIT</TipoIdentificacion>
+      <NumeroIdentificacion>12345678985</NumeroIdentificacion>
+      <Folio>13</Folio>
+      <Tomo>213</Tomo>
+    </AbogadoActor>
+    <Actor>
+      <Nombre>Nombre acotr</Nombre>
+      <Direccion>Donde sea 123</Direccion>
+      <TipoIdentificacion>DNI</TipoIdentificacion>
+      <NumeroIdentificacion>23456432</NumeroIdentificacion>
+      <FechaNacimiento>1999-05-12T00:00:00</FechaNacimiento>
+      <GeneroActor>Masculino</GeneroActor>
+    </Actor>
+    <Juzgado>
+      <NumeroIdentificaciòn>1</NumeroIdentificaciòn>
+      <Juez>Bianchi Gerardo</Juez>
+      <Secretario>Bianchet</Secretario>
+      <Direccion>Calle flaca 123</Direccion>
+    </Juzgado>
+    <FechaAsignacion>2021-11-06T19:53:43.1667628-03:00</FechaAsignacion>
+    <ObjetoCausa>Amparo</ObjetoCausa>
+    <MontoReclamo>1232665</MontoReclamo>
+  </Causa>
+  <Causa>
+    <NumeroIdentificacion>1</NumeroIdentificacion>
+    <Demandado>
+      <Nombre>Fulanito Demandado</Nombre>
+      <Direccion>Calle falsa 123</Direccion>
+      <TipoIdentificacion>CUIT</TipoIdentificacion>
+      <NumeroIdentificacion>23456789431</NumeroIdentificacion>
+      <ActividadEmpresa>actividadEmpresarialPrueba</ActividadEmpresa>
+    </Demandado>
+    <AbogadoActor>
+      <Nombre>Juan pepe</Nombre>
+      <Direccion>Alvares 334</Direccion>
+      <TipoIdentificacion>CUIT</TipoIdentificacion>
+      <NumeroIdentificacion>12345678985</NumeroIdentificacion>
+      <Folio>13</Folio>
+      <Tomo>213</Tomo>
+    </AbogadoActor>
+    <Actor>
+      <Nombre>Nombre acotr</Nombre>
+      <Direccion>Donde sea 123</Direccion>
+      <TipoIdentificacion>DNI</TipoIdentificacion>
+      <NumeroIdentificacion>23456432</NumeroIdentificacion>
+      <FechaNacimiento>1999-05-12T00:00:00</FechaNacimiento>
+      <GeneroActor>Masculino</GeneroActor>
+    </Actor>
+    <Juzgado>
+      <NumeroIdentificaciòn>1</NumeroIdentificaciòn>
+      <Juez>Bianchi Gerardo</Juez>
+      <Secretario>Bianchet</Secretario>
+      <Direccion>Calle flaca 123</Direccion>
+    </Juzgado>
+    <FechaAsignacion>2021-11-06T19:53:43.1679796-03:00</FechaAsignacion>
+    <ObjetoCausa>Amparo</ObjetoCausa>
+    <MontoReclamo>1232665</MontoReclamo>
+  </Causa>
+</ArrayOfCausa>

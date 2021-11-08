@@ -1,0 +1,62 @@
+[
+  {
+    "NumeroIdentificaci\u00F2n": 1,
+    "Juez": "Lombardi Jose",
+    "Secretario": "Parisi Martìn",
+    "Direccion": "Av. Corrientes 122, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 2,
+    "Juez": "De Rossa Gerardo",
+    "Secretario": "Scott Oliver",
+    "Direccion": "Uriburu 1534, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 3,
+    "Juez": "Allan Jesùs",
+    "Secretario": "Logan Guillermo",
+    "Direccion": "Av. Rivadavia 605, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 4,
+    "Juez": "Smirnov Iker",
+    "Secretario": "Hernàndez Mario",
+    "Direccion": "Carlos Pellegrini 768, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 5,
+    "Juez": "Gasperoni Hugo",
+    "Secretario": "Andresson Graciàn",
+    "Direccion": "Viamonte 250, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 6,
+    "Juez": "Borg Andres",
+    "Secretario": "Rossi Vìctor",
+    "Direccion": "Av. Còrdoba 1245, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 7,
+    "Juez": "Murphy Bruno",
+    "Secretario": "Martin Àlvaro",
+    "Direccion": "Rodrìguez Peña 250, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 8,
+    "Juez": "Garcia Hector",
+    "Secretario": "Nowak Vicente",
+    "Direccion": "Virrey cevallos 150, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 9,
+    "Juez": "Mukker Braulio",
+    "Secretario": "Lisandro",
+    "Direccion": "Av. de Mayo 525, CABA"
+  },
+  {
+    "NumeroIdentificaci\u00F2n": 10,
+    "Juez": "Bianchet Filipo",
+    "Secretario": "Smith Paolino",
+    "Direccion": "Adolfo Alsina, 1140, CABA"
+  }
+]
