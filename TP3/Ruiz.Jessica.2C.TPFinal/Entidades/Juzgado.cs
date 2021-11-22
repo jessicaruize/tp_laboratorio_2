@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Juzgado
     {
-        private int numeroIdentificaciòn;
+        private int numeroIdentificacion;
         private string juez;
         private string secretario;
         private string direccion;
@@ -26,9 +26,9 @@ namespace Entidades
         /// <param name="juez"></param> valor a cargar en el atributo juez
         /// <param name="secretario"></param> valor a cargar en el atributo secretario
         /// <param name="direccion"></param> direccón
-        public Juzgado(int numeroIdentificaciòn, string juez, string secretario, string direccion)
+        public Juzgado(int numeroIdentificacion, string juez, string secretario, string direccion)
         {
-            this.NumeroIdentificaciòn = numeroIdentificaciòn;
+            this.NumeroIdentificacion = numeroIdentificacion;
             this.Juez = juez;
             this.Secretario = secretario;
             this.Direccion = direccion;
@@ -36,15 +36,15 @@ namespace Entidades
         /// <summary>
         /// Prppiedad lectura y escritura para el atributo numeroIdentificacion
         /// </summary>
-        public int NumeroIdentificaciòn 
+        public int NumeroIdentificacion 
         {
             get
             { 
-                return this.numeroIdentificaciòn;
+                return this.numeroIdentificacion;
             }
             set
             {
-                this.numeroIdentificaciòn = value;
+                this.numeroIdentificacion = value;
             }
         }
         /// <summary>
@@ -96,7 +96,7 @@ namespace Entidades
         public string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Juzgado número {this.NumeroIdentificaciòn}");
+            sb.AppendLine($"Juzgado número {this.NumeroIdentificacion}");
             sb.AppendLine($"Juez: {this.Juez}");
             sb.AppendLine($"Secretàrio: {this.Secretario}");
             sb.AppendLine($"Direcciòn: {this.Direccion}");

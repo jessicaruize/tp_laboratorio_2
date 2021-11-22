@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Entidades.Abogado">
-    <Position X="1" Y="5.5" Width="1.5" />
+    <Position X="0.5" Y="5.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAAEAgAAAAAAAAAAAAAAAAAAAIAAAAiA=</HashCode>
       <FileName>Abogado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.Actor">
-    <Position X="5.25" Y="5.5" Width="1.5" />
+    <Position X="5.5" Y="5.5" Width="2" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
@@ -25,7 +25,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.ArchivoTexto" BaseTypeListCollapsed="true">
-    <Position X="11" Y="0.75" Width="1.5" />
+    <Position X="13" Y="0.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>EAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
       <FileName>ArchivoTexto.cs</FileName>
@@ -33,7 +33,10 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Entidades.Causa">
-    <Position X="7" Y="0.5" Width="1.5" />
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
     <NestedTypes>
       <Enum Name="Entidades.Causa.Objeto" Collapsed="true">
         <TypeIdentifier>
@@ -47,28 +50,28 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.Demandado">
-    <Position X="3.25" Y="5.5" Width="1.5" />
+    <Position X="3" Y="5.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>EAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
       <FileName>Demandado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.ExtensionInvalidaException">
-    <Position X="9" Y="0.75" Width="1.5" />
+    <Position X="10.75" Y="0.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ExtensionInvalidaException.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.Juzgado">
-    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Position X="4.5" Y="0.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAACAAAAAgAJAAggCAAIAAAAAAABAAAAAAAAAAAAAA=</HashCode>
       <FileName>Juzgado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.Partes">
-    <Position X="3.25" Y="0.5" Width="1.5" />
+    <Position X="1.25" Y="0.5" Width="2.25" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
@@ -85,7 +88,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Entidades.Serializador&lt;T&gt;" BaseTypeListCollapsed="true">
-    <Position X="11" Y="3" Width="1.5" />
+    <Position X="13" Y="2.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>EAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
       <FileName>Serializador.cs</FileName>
@@ -93,7 +96,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Interface Name="Entidades.IArchivos&lt;T&gt;">
-    <Position X="9" Y="3" Width="1.5" />
+    <Position X="10.75" Y="2.75" Width="1.75" />
     <NestedTypes>
       <Enum Name="Entidades.IArchivos&lt;T&gt;.ETipoArchivo" Collapsed="true">
         <TypeIdentifier>
